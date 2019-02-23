@@ -1,6 +1,7 @@
 <!-- Navigation -->
 <?php
-include("head.php"); 
+include("includes/header.php"); 
+include("includes/nav.php");
 ?> 
 <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
   <div class="container">
@@ -145,7 +146,7 @@ include("head.php");
         <div class="thumbnail"> <img src="img/team/01.jpg" alt="..." class="img-thumbnail team-img">
           <div class="caption">
             <h3>Atul Kumar</h3>
-            <p>Founder / CEO</p>
+            <p>Frontend Designer(Team Captain)</p>
           </div>
         </div>
       </div>
@@ -178,9 +179,7 @@ include("head.php");
 </div>
 <!-- Contact Section -->
 <?php
-include("footer.php");
-include("script.php");
+include("includes/footer.php");
+include("includes/script.php");
 ?>
 
-</body>
-</html>
