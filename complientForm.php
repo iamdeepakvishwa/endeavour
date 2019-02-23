@@ -15,7 +15,7 @@ include("includes/nav.php");
             <br>
         <center><h2><b>COMPLAIN PORTAL</b></h2></center>
         <br><br>
-        <form action="" method="post">  
+        <form action="functions/functions.php" method="post">  
             <div class="row">
                 <div class="col-md-6 col-xl-9">
                     <div class="form-group">
@@ -48,12 +48,12 @@ include("includes/nav.php");
             </div>
             <div class="form-group">
                 <label for="description" class="sr-only">Description</label>
-                <input type="text" class="form-control" placeholder="Enter Description" onfocus="this.placeholder =''" onblur="this.placeholder='Enter Description'" required>
+                <textarea name="discription" placeholder="Description" class="form-control" required></textarea>
             </div>
             <div class="form-group">
-                <input type="file" name="pic" value="" accept="image/*" capture>
+                <input type="file" name="pic" class="form-control" accept="image/*" capture>
             </div>
-            <button type="submit" class="btn btn-primary">Submit</button>
+            <button type="submit" name="submit" class="btn btn-primary">Submit</button>
         </form>
         </div>
         <div class="col-md-3">
