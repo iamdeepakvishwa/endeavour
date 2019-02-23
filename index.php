@@ -61,7 +61,8 @@ include("includes/frontimg.php");
     <div class="space"></div>
     <div class="row">
       <div class="col-md-3 col-sm-6">
-        <a href="#"><div class="service">Traffic Puran <i class="fa fa-desktop"></i>
+        <a href="#"><div class="service"> <i class="fa fa-desktop"></i>
+            <h3>Traffic Puran</h3>
           <p>All information related to traffic and all its rules and regulations.</p></a>
         </div>
       </div>

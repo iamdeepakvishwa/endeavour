@@ -39,6 +39,10 @@ include("includes/nav.php");
                 <input type="text" class="form-control" placeholder="Enter Aadhaar Number" onfocus="this.placeholder =''" onblur="this.placeholder='Enter Aadhaar Number'" required>
             </div>
             <div class="form-group">
+                <label for="aadhaar" class="sr-only">E-mail</label>
+                <input type="email" class="form-control" placeholder="Enter Email" onfocus="this.placeholder =''" onblur="this.placeholder='Enter Email'" required>
+            </div>
+            <div class="form-group">
                 <label for="location" class="sr-only">Location</label>
                 <input type="text" class="form-control" placeholder="Enter Location" onfocus="this.placeholder =''" onblur="this.placeholder='Enter Location'" required>
             </div>
