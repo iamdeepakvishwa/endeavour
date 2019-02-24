@@ -74,7 +74,7 @@ include("includes/nav.php");
  			<div class="col-md-3">
  				<div class="jumbotron">
 					<div class="card" style="width:100%">
-					    <img class="card-img-top" src="http://www.sohadacouri.com/wp-content/uploads/st/thumb-stock-illustration-profile-icon-male-avatar.jpg" alt="Card image" style="width:100%; height: auto;">
+					    <img class="card-img-top" src="img/water_smallscale_0.jpg" alt="Card image" style="width:100%; height: auto;">
 					    <div class="card-body" style="margin: auto;">
 					    	<br><br>
 					      	<center><a href="#" class="btn btn-primary">Get Location</a></center>
@@ -85,7 +85,7 @@ include("includes/nav.php");
  			<div class="col-md-3">
 					<div class="jumbotron">
 					<div class="card" style="width:100%">
-					    <img class="card-img-top" src="http://www.sohadacouri.com/wp-content/uploads/st/thumb-stock-illustration-profile-icon-male-avatar.jpg" alt="Card image" style="width:100%; height: auto;">
+					    <img class="card-img-top" src="img/water_smallscale_0.jpg" alt="Card image" style="width:100%; height: auto;">
 					    <div class="card-body" style="margin-left: auto;">
 					    	<br><br>
 					      	<center><a href="#" class="btn btn-primary">Get Location</a></center>
@@ -96,7 +96,7 @@ include("includes/nav.php");
  			<div class="col-md-3">
 					<div class="jumbotron">
 					<div class="card" style="width:100%">
-					    <img class="card-img-top" src="http://www.sohadacouri.com/wp-content/uploads/st/thumb-stock-illustration-profile-icon-male-avatar.jpg" alt="Card image" style="width:100%; height: auto;">
+					    <img class="card-img-top" src="img/water_smallscale_0.jpg" alt="Card image" style="width:100%; height: auto;">
 					    <div class="card-body" style="margin: auto;">
 					      <br><br>
 					      <center><a href="#" class="btn btn-primary">Get Location</a></center>
@@ -107,7 +107,7 @@ include("includes/nav.php");
  			<div class="col-md-3">
 					<div class="jumbotron">
 					<div class="card" style="width:100%">
-					    <img class="card-img-top" src="http://www.sohadacouri.com/wp-content/uploads/st/thumb-stock-illustration-profile-icon-male-avatar.jpg" alt="Card image" style="width:100%; height: auto;">
+					    <img class="card-img-top" src="img/water_smallscale_0.jpg" alt="Card image" style="width:100%; height: auto;">
 					    <div class="card-body" style="margin: auto;">
 					    	<br><br>
 					      	<center><a href="#" class="btn btn-primary">Get Location</a></center>

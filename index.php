@@ -143,7 +143,7 @@ include("includes/frontimg.php");
       <p>We are Team Tesseract.</p>
     </div>
     <div id="row">
-      <div class="col-xs-6 col-md-3 col-sm-6">
+      <div class="col-md-3 col-sm-6">
         <div class="thumbnail"> <img src="img/team/img3.jpg" alt="..." class="img-thumbnail team-img">
           <div class="caption">
             <h3>Atul Kumar</h3>
@@ -151,7 +151,7 @@ include("includes/frontimg.php");
           </div>
         </div>
       </div>
-      <div class="col-xs-6 col-md-3 col-sm-6">
+      <div class=" col-md-3 col-sm-6">
         <div class="thumbnail"> <img src="img/team/img2.jpeg" alt="..." class="img-thumbnail team-img">
           <div class="caption">
             <h3>Deepak Vishwakarma</h3>
@@ -159,7 +159,7 @@ include("includes/frontimg.php");
           </div>
         </div>
       </div>
-      <div class="col-xs-6 col-md-3 col-sm-6">
+      <div class=" col-md-3 col-sm-6">
         <div class="thumbnail"> <img src="img/team/img1.jpg" alt="..." class="img-thumbnail team-img">
           <div class="caption">
             <h3>Akhil Verma</h3>
@@ -167,7 +167,7 @@ include("includes/frontimg.php");
           </div>
         </div>
       </div>
-      <div class="col-xs-6 col-md-3 col-sm-6">
+      <div class=" col-md-3 col-sm-6">
         <div class="thumbnail"> <img src="img/team/img0.jpeg" alt="..." class="img-thumbnail team-img">
           <div class="caption">
             <h3>Ankit Kumar</h3>
