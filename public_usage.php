@@ -77,7 +77,7 @@ include("includes/nav.php");
 					    <img class="card-img-top" src="img/water_smallscale_0.jpg" alt="Card image" style="width:100%; height: auto;">
 					    <div class="card-body" style="margin: auto;">
 					    	<br><br>
-					      	<center><a href="#" class="btn btn-primary">Get Location</a></center>
+					      	<center><a href="https://www.google.com/search?safe=active&q=public+toilets+in+muradnagar&npsic=0&rflfq=1&rlha=0&rllag=28773261,77506258,1486&tbm=lcl&ved=2ahUKEwj_mYmP-dPgAhXCXisKHfYuDzsQtgN6BAgAEAQ&tbs=lrf:!2m1!1e2!2m1!1e3!2m1!1e16!3sIAE,lf:1,lf_ui:2&rldoc=1#rlfi=hd:;si:3670440398921441597;mv:!1m2!1d28.785479300000002!2d77.5161444!2m2!1d28.7610443!2d77.4963733" class="btn btn-primary" target="_self">Get Location</a></center>
 					    </div>
 				 	</div> 				
 				 </div>
@@ -88,7 +88,7 @@ include("includes/nav.php");
 					    <img class="card-img-top" src="img/water_smallscale_0.jpg" alt="Card image" style="width:100%; height: auto;">
 					    <div class="card-body" style="margin-left: auto;">
 					    	<br><br>
-					      	<center><a href="#" class="btn btn-primary">Get Location</a></center>
+					      	<center><a href="https://www.google.com/search?safe=active&q=public+toilets+in+muradnagar&npsic=0&rflfq=1&rlha=0&rllag=28773261,77506258,1486&tbm=lcl&ved=2ahUKEwj_mYmP-dPgAhXCXisKHfYuDzsQtgN6BAgAEAQ&tbs=lrf:!2m1!1e2!2m1!1e3!2m1!1e16!3sIAE,lf:1,lf_ui:2&rldoc=1#rlfi=hd:;si:5604324937072206000;mv:!1m2!1d28.785479300000002!2d77.5161444!2m2!1d28.7610443!2d77.4963733" class="btn btn-primary" target="_self">Get Location</a></center>
 					    </div>
 				 	</div> 				
 				 </div> 				
@@ -99,7 +99,7 @@ include("includes/nav.php");
 					    <img class="card-img-top" src="img/water_smallscale_0.jpg" alt="Card image" style="width:100%; height: auto;">
 					    <div class="card-body" style="margin: auto;">
 					      <br><br>
-					      <center><a href="#" class="btn btn-primary">Get Location</a></center>
+					      <center><a href="https://www.google.com/search?safe=active&tbm=lcl&ei=F1VyXP-qIYOv9QPjw6eACw&q=public+toilets+in+rajnagar+extension&oq=public+toilets+in+rajnagar+extension&gs_l=psy-ab.3...249313.253369.0.254274.18.16.0.0.0.0.503.2774.2-4j1j2j1.8.0....0...1c.1.64.psy-ab..10.6.2193...33i160k1j33i21k1j33i10i21k1.0.-wBU8xBBxqk#rlfi=hd:;si:4314990334563532383;mv:!1m2!1d28.7119249!2d77.4586655!2m2!1d28.680436900000004!2d77.4185045" class="btn btn-primary" target="_self">Get Location</a></center>
 					    </div>
 				 	</div> 				
 				 </div>
@@ -110,7 +110,7 @@ include("includes/nav.php");
 					    <img class="card-img-top" src="img/water_smallscale_0.jpg" alt="Card image" style="width:100%; height: auto;">
 					    <div class="card-body" style="margin: auto;">
 					    	<br><br>
-					      	<center><a href="#" class="btn btn-primary">Get Location</a></center>
+					      	<center><a href="https://www.google.com/search?safe=active&tbm=lcl&ei=F1VyXP-qIYOv9QPjw6eACw&q=public+toilets+in+rajnagar+extension&oq=public+toilets+in+rajnagar+extension&gs_l=psy-ab.3...249313.253369.0.254274.18.16.0.0.0.0.503.2774.2-4j1j2j1.8.0....0...1c.1.64.psy-ab..10.6.2193...33i160k1j33i21k1j33i10i21k1.0.-wBU8xBBxqk#rlfi=hd:;si:10990425865384832506;mv:!1m2!1d28.7119249!2d77.4586655!2m2!1d28.680436900000004!2d77.4185045" class="btn btn-primary" target="_self">Get Location</a></center>
 				 	</div> 				
 				 </div> 				
  			</div>
