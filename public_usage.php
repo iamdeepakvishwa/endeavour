@@ -1,21 +1,10 @@
 <?php
-include("head.php");
-include("nav.php"); 
+include("includes/header.php");
+include("includes/frontimg.php"); 
+include("image.php"); 
+include("includes/nav.php"); 
 ?>
-<body>
-<br><br>
-<div id="intro">
-  <div class="intro-body">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-10 col-md-offset-1">
-          <h1>BE ON <span class="brand-heading">#Sadak</span></h1>
-          <p class="intro-text">Digital Services Helping To Make Digital India</p>
-          <a href="#form" class="btn btn-default page-scroll">Learn More</a> </div>
-      </div>
-    </div>
-  </div>
-</div>
+
 <br>
 <br>
 
@@ -129,6 +118,7 @@ include("nav.php");
 	</div>
 </div>
 	<?php
-include("footer.php");
-include("script.php");
+    include("includes/contactus.php");
+    include("includes/footer.php");
+    include("includes/script.php");
 ?>

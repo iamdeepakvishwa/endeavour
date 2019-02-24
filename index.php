@@ -1,6 +1,7 @@
 <!-- Navigation -->
 <?php
-include("head.php"); 
+include("includes/header.php"); 
+include("includes/frontimg.php"); 
 ?> 
 <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
   <div class="container">
@@ -80,7 +81,7 @@ include("head.php");
     <div class="row">
       <div class="col-md-3 col-sm-6">
         <a href="rules_regulation.php"><div class="service"> <i class="fa fa-desktop"></i>
-          <h3>Trafic rules and regulation</h3>
+          <h3>Traffic Puran</h3>
           <p>All information related to traffic and all its rules and regulations.</p></a>
         </div>
       </div>
@@ -180,8 +181,9 @@ include("head.php");
 
 <!-- Contact Section -->
 <?php
-include("footer.php");
-include("script.php");
+include("includes/contactus.php");
+include("includes/footer.php");
+include("includes/script.php");
 ?>
 
 </body>
